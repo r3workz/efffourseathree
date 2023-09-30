@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/efffourseathree/static/css/main.ddd9d792.css",
+    "main.js": "/efffourseathree/static/js/main.76676b0f.js",
+    "index.html": "/efffourseathree/index.html",
+    "main.ddd9d792.css.map": "/efffourseathree/static/css/main.ddd9d792.css.map",
+    "main.76676b0f.js.map": "/efffourseathree/static/js/main.76676b0f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ddd9d792.css",
+    "static/js/main.76676b0f.js"
+  ]
+}
