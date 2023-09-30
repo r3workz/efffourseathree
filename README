@@ -1,0 +1,4 @@
+# Please Click on Home Page in the Navigation Bar.
+## Route caused some issues because of github pages link. This project is already inside `baseUrl/thisProject` and home is pointing to  root `/`.
+
+    Click on home page it points to the base url(which is supposed to link to a completely seperate website), but somehow still works..
